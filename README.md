@@ -1,6 +1,7 @@
 # New publications 2024
 
 - June
+   - BRT Simple Calculator Of Project Effects (SCOPE), ITDP, June 2024: https://itdp.org/publication/itdp-scope-emissions-tool/
    - Urban Logistics Hubs, ITF, June 2024: https://www.itf-oecd.org/sites/default/files/docs/urban-logistics-hubs.pdf
    - Future transport infrastructure: Comparing national investments, ITF, June 2024: https://www.itf-oecd.org/sites/default/files/future-transport-infrastructure-comparing-national-investments.pdf?ct=t(2018_Sept_Newsletter_COPY_01)&mc_cid=d0fe79a9d0&mc_eid=de33341d8b
   - Capacity Building in Sustainable Urban Mobility for Low Income Countries “Research on demand and success factors for future supply”, HVT/Transport for Cairo, June 2024: https://transport-links.com/wp-content/uploads/2024/06/Transport-For-Cairo-FINAL.pdf
