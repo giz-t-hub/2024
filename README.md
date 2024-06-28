@@ -1,5 +1,8 @@
 # New publications 2024
 
+- July
+
+- 
 - June
     - BRT Simple Calculator Of Project Effects (SCOPE), ITDP, June 2024: https://itdp.org/publication/itdp-scope-emissions-tool/
     - Urban Logistics Hubs, ITF, June 2024: https://www.itf-oecd.org/sites/default/files/docs/urban-logistics-hubs.pdf
