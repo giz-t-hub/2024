@@ -1,8 +1,7 @@
 # New publications 2024
 
 - July
-
-- 
+    - <b> Street Experiments as Transformative Planning Tools: Contrasting Adaptive Approaches towards Urban Livability and Sustainable Urban Mobility </b>, Lukas Hügle, July 2024: https://hlbrm.pur.hebis.de/xmlui/handle/123456789/183
 - June
     - <b> BRT Simple Calculator Of Project Effects (SCOPE) </b>, ITDP, June 2024: https://itdp.org/publication/itdp-scope-emissions-tool/
     - <b> Urban Logistics Hubs </b>, ITF, June 2024: https://www.itf-oecd.org/sites/default/files/docs/urban-logistics-hubs.pdf
