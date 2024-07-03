@@ -1,5 +1,5 @@
 # New publications 2024
-- Have something to add or change? Contact: Armin.Wagner@giz.de
+- Any comments or suggestions? Contact: Armin.Wagner@giz.de
 
 - July
     - <b> Electric Vehicle Demand Incentives In India: The FAME II Scheme And Considerations For A Potential Next Phase </b>, ICCT, July 2024: https://theicct.org/publication/electric-vehicle-demand-incentives-in-india-the-fame-ii-scheme-and-considerations-for-a-potential-next-phase-june24/
