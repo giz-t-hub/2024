@@ -18,5 +18,8 @@
 
 
 - May
+    - <b> THE GLOBAL AUTOMAKER RATING 2023 - Who is leading the transition to electric vehicles? </b>:  https://theicct.org/wp-content/uploads/2024/05/ID-161-%E2%80%93-GAR-2023_report_final.pdf
+    - <b> Shared mobility and a sustainable transport future in Latin American cities </b>: https://www.wri.org/research/shared-mobility-and-sustainable-transport-future-latin-american-cities?utm_source=brevo&utm_campaign=SLOCAT%20General%20Newsletter%20-%20Apr%202024_copy&utm_medium=email
+    - 
 - April 
     - Western Balkans Urban Mobility Initiative - Summary Report, World Bank, April 2024: https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099060624074022601/p50218110c3d8b08d19c2c1e8a0a6a19e1d
