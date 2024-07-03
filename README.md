@@ -1,7 +1,7 @@
 # New publications 2024
 
 - July
-    - Electric Vehicle Demand Incentives In India: The FAME II Scheme And Considerations For A Potential Next Phase, ICCT, July 2024: https://theicct.org/publication/electric-vehicle-demand-incentives-in-india-the-fame-ii-scheme-and-considerations-for-a-potential-next-phase-june24/
+    - <b> Electric Vehicle Demand Incentives In India: The FAME II Scheme And Considerations For A Potential Next Phase </b>, ICCT, July 2024: https://theicct.org/publication/electric-vehicle-demand-incentives-in-india-the-fame-ii-scheme-and-considerations-for-a-potential-next-phase-june24/
     - <b> Street Experiments as Transformative Planning Tools: Contrasting Adaptive Approaches towards Urban Livability and Sustainable Urban Mobility </b>, Lukas Hügle, July 2024: https://hlbrm.pur.hebis.de/xmlui/handle/123456789/183
     - 
 - June
