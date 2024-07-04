@@ -4,9 +4,10 @@
 
 ### July <a name="July"></a> 
 
+- <b> ATO Gender in Transport Profiles </b>: https://asiantransportoutlook.com/analytical-outputs/genderprofiles/ - "These profiles provide an in-depth look at the gender dynamics within the transport sector of various countries, as well as policy measures that are related to gender in the transport sector. Each profile contains critical data points such as female employment statistics, wage comparisons, the share of females in transport-related employment, and the prevalence of females in high-level decision-making positions*
 - <b> Electric Vehicle Demand Incentives In India: The FAME II Scheme And Considerations For A Potential Next Phase </b>, ICCT, July 2024: https://theicct.org/publication/electric-vehicle-demand-incentives-in-india-the-fame-ii-scheme-and-considerations-for-a-potential-next-phase-june24/ - *This report examines the impact of FAME II purchase subsidies on the cost dynamics of EVs and explore the opportunity of extending such subsidies to segments that are yet to be covered under the scheme. Based on this analysis, it develops policy recommendations for a possible third phase of the program.*
 - <b> Street Experiments as Transformative Planning Tools: Contrasting Adaptive Approaches towards Urban Livability and Sustainable Urban Mobility </b>, Lukas Hügle, July 2023: https://hlbrm.pur.hebis.de/xmlui/handle/123456789/183 - *This thesis explores how municipalities can use street experiments to enhance urban livability and sustainable mobility. It identifies two key strategies: temporary street use actions for spatial flexibility and phase 0 actions for permanent reconstruction. Thematic types include street events, periodic pop-ups, interim uses, and various planning actions. Case studies in Berlin, Malmö, and Hackney reveal the evolving roles of municipal planners. Effective adaptive planning needs strategic frameworks, clear objectives, preparation, engagement strategies, and evaluations. The thesis highlights the importance of understanding who benefits from these experiments and calls for further research on their social impacts.*
-
+  
     
 ### June <a name="June"></a> 
 
