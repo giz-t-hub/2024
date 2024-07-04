@@ -22,11 +22,12 @@
 
 
 - May
-    - <b> THE GLOBAL AUTOMAKER RATING 2023 - Who is leading the transition to electric vehicles? </b>:  https://theicct.org/wp-content/uploads/2024/05/ID-161-%E2%80%93-GAR-2023_report_final.pdf
-    - <b> Shared mobility and a sustainable transport future in Latin American cities </b>: https://www.wri.org/research/shared-mobility-and-sustainable-transport-future-latin-american-cities?utm_source=brevo&utm_campaign=SLOCAT%20General%20Newsletter%20-%20Apr%202024_copy&utm_medium=email
+    - <b> THE GLOBAL AUTOMAKER RATING 2023 - Who is leading the transition to electric vehicles? </b>:  https://theicct.org/wp-content/uploads/2024/05/ID-161-%E2%80%93-GAR-2023_report_final.pdf - *This report updates the Global Automaker Rating 2022 report and assesses how the 
+world’s largest automakers stack up in the transition to ZEVs—that is, battery electric vehicles (BEVs) and fuel-cell electric vehicles (FCEVs).*
+    - <b> Shared mobility and a sustainable transport future in Latin American cities </b>: https://www.wri.org/research/shared-mobility-and-sustainable-transport-future-latin-american-cities? - *This paper discusses the views and issues addressed by invited speakers and discussants at the workshop series “Shared Mobility and a Sustainable Transport Future in Latin American Cities,” hosted by WRI Ross Center's Urban Mobility team from August to October 2023. The workshops were held to solicit expert views on whether and how shared-mobility tools, like bike sharing and ride-hailing, may support a sustainable mobility ecosystem.*
     - 
 - April 
-    - <b> Western Balkans Urban Mobility Initiative - Summary Report </b>, World Bank, April 2024: https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099060624074022601/p50218110c3d8b08d19c2c1e8a0a6a19e1d
+    - <b> Western Balkans Urban Mobility Initiative - Summary Report </b>, World Bank, April 2024: https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099060624074022601/p50218110c3d8b08d19c2c1e8a0a6a19e1d - *The overarching aim of the assessment is to identify interventions for urban mobility-related challenges and potential opportunities where the World Bank Group may provide support. This comprehensive summary report presents the highlights of individual urban mobility assessments prepared for each of the 10 selected WeBa cities, provides a comprehensive review of urban transport provision and gaps, and identifies priority investment areas and key strategies to enable the urban transport transformation in cities across the region*
 
 ###
 ###
@@ -44,5 +45,5 @@ For more information about our work, please refer to:
 Compiled by / Contact:
 
 Armin Wagner: armin.wagner@giz.de
-(as of May 2024)
+(as of July 2024)
 
