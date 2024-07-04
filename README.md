@@ -2,11 +2,13 @@
 - Any comments or suggestions? Contact: Armin.Wagner@giz.de
 
 
-### July
+### July <a name="July"></a> 
+
     - <b> Electric Vehicle Demand Incentives In India: The FAME II Scheme And Considerations For A Potential Next Phase </b>, ICCT, July 2024: https://theicct.org/publication/electric-vehicle-demand-incentives-in-india-the-fame-ii-scheme-and-considerations-for-a-potential-next-phase-june24/ - *This report examines the impact of FAME II purchase subsidies on the cost dynamics of EVs and explore the opportunity of extending such subsidies to segments that are yet to be covered under the scheme. Based on this analysis, it develops policy recommendations for a possible third phase of the program.*
     - <b> Street Experiments as Transformative Planning Tools: Contrasting Adaptive Approaches towards Urban Livability and Sustainable Urban Mobility </b>, Lukas Hügle, July 2023: https://hlbrm.pur.hebis.de/xmlui/handle/123456789/183 - *This thesis explores how municipalities can use street experiments to enhance urban livability and sustainable mobility. It identifies two key strategies: temporary street use actions for spatial flexibility and phase 0 actions for permanent reconstruction. Thematic types include street events, periodic pop-ups, interim uses, and various planning actions. Case studies in Berlin, Malmö, and Hackney reveal the evolving roles of municipal planners. Effective adaptive planning needs strategic frameworks, clear objectives, preparation, engagement strategies, and evaluations. The thesis highlights the importance of understanding who benefits from these experiments and calls for further research on their social impacts.*
     
-### June
+### June <a name="June"></a> 
+
     - <b> Morocco’s Role in the Global Electro-Mobility Revolution </b>, GIZ, June 2024: https://changing-transport.org/publications/moroccos-role-in-the-global-electro-mobility-revolution/ - *Morocco is emerging as a significant player in the global transition towards electro-mobility, driven by its various strategic advantages. Leveraging its robust manufacturing sector and automotive expertise, renewable energy potential and abundant raw material sources, strategic location and free trade agreements, the country aims to spearhead fully decarbonized automotive supply chains and capitalize on the expanding global electric vehicle market. With a growing emphasis on green technologies and sustainability, Morocco is well-positioned to play a pivotal role in shaping the future of electro-mobility both within Africa and globally. The report sheds light on the status quo, potentials, and challenges of electro-mobility promotion and industry transformation in Morocco.*
     - <b> Recommendation for Deployment of Smart Charging for Electric Vehicles in India </b>, GIZ, June 2024: https://changing-transport.org/publications/recommendation-for-deployment-of-smart-charging-for-electric-vehicles-in-india/ - *The recommendations have been categorized into six key areas: incentives, tariffs, mandates, data management, research, and development (R&D), and standardization.  This report presents the findings and recommendations derived from a detailed simulation analysis conducted on Indian distribution systems, complemented by insights from international experiences. It outlines the selection of smart charging strategies, simulation methodologies, and technical-economic analyses, and provides a roadmap for the deployment of smart charging in India.*
     - <b> Enhancing Ambition and Transparency in the Next Round of NDCs </b>, GIZ, June 2024: https://changing-transport.org/publications/enhancing-ambition-and-transparency-in-the-next-round-of-ndcs/ - *The publication emphasizes the need for increased ambition and transparency in the next round of Nationally Determined Contributions (NDCs), highlighting strategies to enhance climate commitments and ensure effective implementation.*
@@ -23,12 +25,14 @@
    - <b> A Pathway to Decarbonization of the Vehicle Fleet in Serbia and the Role of Electric Mobility </b>, World Bank, June 2024: https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099061924100561127/p5021811bef50708a188c0176095fb5ef06 - *This report outlines a pathway for decarbonizing Serbia's vehicle fleet, emphasizing the role of electric mobility in achieving sustainable transportation goals.*
 
 
-### May
+### May <a name="May"></a> 
+
     - <b> THE GLOBAL AUTOMAKER RATING 2023 - Who is leading the transition to electric vehicles? </b>:  https://theicct.org/wp-content/uploads/2024/05/ID-161-%E2%80%93-GAR-2023_report_final.pdf - *This report updates the Global Automaker Rating 2022 report and assesses how the 
 world’s largest automakers stack up in the transition to ZEVs—that is, battery electric vehicles (BEVs) and fuel-cell electric vehicles (FCEVs).*
     - <b> Shared mobility and a sustainable transport future in Latin American cities </b>: https://www.wri.org/research/shared-mobility-and-sustainable-transport-future-latin-american-cities? - *This paper discusses the views and issues addressed by invited speakers and discussants at the workshop series “Shared Mobility and a Sustainable Transport Future in Latin American Cities,” hosted by WRI Ross Center's Urban Mobility team from August to October 2023. The workshops were held to solicit expert views on whether and how shared-mobility tools, like bike sharing and ride-hailing, may support a sustainable mobility ecosystem.*
     - 
-### April 
+### April <a name="April"></a> 
+
     - <b> Western Balkans Urban Mobility Initiative - Summary Report </b>, World Bank, April 2024: https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099060624074022601/p50218110c3d8b08d19c2c1e8a0a6a19e1d - *The overarching aim of the assessment is to identify interventions for urban mobility-related challenges and potential opportunities where the World Bank Group may provide support. This comprehensive summary report presents the highlights of individual urban mobility assessments prepared for each of the 10 selected WeBa cities, provides a comprehensive review of urban transport provision and gaps, and identifies priority investment areas and key strategies to enable the urban transport transformation in cities across the region*
 
 ###
