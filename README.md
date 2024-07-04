@@ -15,18 +15,23 @@
     - <b> Exploration of Market Potentials in Battery Recycling and Refurbishment in Africa – Case Study of: Ghana, Rwanda, Morocco, Cameroon, and Kenya </b>, GIZ, June 2024: https://transformative-mobility.org/multimedia/exploration-of-market-potentials-in-battery-recycling-and-refurbishment-in-africa-case-study-of-ghana-rwanda-morocco-cameroon-and-kenya/
     - *As battery usage surges, so does electronic waste, but this challenge brings a unique opportunity. With the right investments and partnerships,  nations can lead a battery recycling revolution, creating jobs, reducing waste, and driving sustainable growth. Check out this publication exploring these topics on the African context*
     - <b> BRT Simple Calculator Of Project Effects (SCOPE) </b>, ITDP, June 2024: https://itdp.org/publication/itdp-scope-emissions-tool/
-    - *the BRT Simple Calculator Of Project Effects (BRT SCOPE) is a user-friendly spreadsheet tool that estimates the potential climate and air quality impacts of these projects.*
+    - *Spreadsheet tool that estimates the potential climate and air quality impacts of BRT projects.*
     - <b> Urban Logistics Hubs </b>, ITF, June 2024: https://www.itf-oecd.org/sites/default/files/docs/urban-logistics-hubs.pdf
+    - *This report discusses the role of urban logistics hubs in enhancing the efficiency of urban freight transport, reducing congestion, and minimizing environmental impacts, offering policy recommendations for city planners.*
     - <b> Future transport infrastructure: Comparing national investments </b>, ITF, June 2024: https://www.itf-oecd.org/sites/default/files/future-transport-infrastructure-comparing-national-investments.pdf?ct=t(2018_Sept_Newsletter_COPY_01)&mc_cid=d0fe79a9d0&mc_eid=de33341d8b
+    - *An analysis of national investments in transport infrastructure, comparing how different countries prioritize and fund future transport projects to support economic growth and sustainability.*
     - <b> Capacity Building in Sustainable Urban Mobility for Low Income Countries “Research on demand and success factors for future supply” </b>, HVT/Transport for Cairo, June 2024: https://transport-links.com/wp-content/uploads/2024/06/Transport-For-Cairo-FINAL.pdf
+    - *This report fills a gap in sector-specific literature on capacity building in passenger transport and urban mobility by examining various activities and their effectiveness for low-income countries (LICs). It identifies six types of stakeholders and provides an overview of organizations and formats of capacity building in the transport sector. The report offers detailed guidelines for assessing the effectiveness of capacity building measures and emphasizes the importance of needs assessments to enhance the design and funding of these efforts.*
     - <b> Greener Micromobility </b>, OECD/ITF Corporate Partnership Board, June 2024: https://www.itf-oecd.org/sites/default/files/docs/greener-micromobility.pdf
+    - *The report explores the environmental benefits of micromobility solutions like e-scooters and e-bikes, proposing policies to maximize their positive impact on urban sustainability.*
     - <b> Freight Transport and Logistics in National Climate Strategies </b>, Kühne Foundation and SLOCAT, June 2024: https://slocat.net/wp-content/uploads/2024/06/KF-infographic_4-pages_final.pdf?utm_source=brevo&utm_campaign=Spotlight%20newsletter%20on%20infographics&utm_medium=email
+    - *This infographic highlights the integration of freight transport and logistics into national climate strategies, emphasizing the importance of sustainable practices to achieve climate goals.*
     - <b> Prioritising Active Transport </b>, Austroads Ltd., June 2024, https://austroads.com.au/__data/assets/pdf_file/0031/653368/AP-R711-24_Prioritising_Active_Transport.pdf
-    - <b> Parkverbote für „Monster-SUV“? Gestaltungsmöglichkeiten zur Beschränkung des innerstädtischen Parkraumes für übermäßig große Pkw </b> *(Parking Bans for “Monster SUVs”? Design Options for Restricting Urban Parking Spaces for Excessively Large Cars)*: https://www.duh.de/fileadmin/user_upload/download/Projektinformation/Verkehr/SUV/2024_06_07_SUV_Parkfla%CC%88chen_Gutachten_final.pdf
-   - <b> Policies to Improve the Environmental Performance of Road Vehicles in the Western Balkans : Managing Road Vehicle Emissions and Embracing E-mobility </b>, World Bank, June 2024: https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099060624023516195/p50218114f0b1701d1b4ff14b11be33bf6c   
+    - *Austroads' report outlines strategies to prioritize active transport modes such as walking and cycling, aiming to create healthier, more sustainable urban environments.*
+   - <b> Policies to Improve the Environmental Performance of Road Vehicles in the Western Balkans : Managing Road Vehicle Emissions and Embracing E-mobility </b>, World Bank, June 2024: https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099060624023516195/p50218114f0b1701d1b4ff14b11be33bf6c
+   - *The World Bank report provides policy recommendations for managing road vehicle emissions and promoting e-mobility in the Western Balkans to improve environmental performance.*
    - <b> A Pathway to Decarbonization of the Vehicle Fleet in Serbia and the Role of Electric Mobility </b>, World Bank, June 2024: https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099061924100561127/p5021811bef50708a188c0176095fb5ef06
-
-    - 
+    - *This report outlines a pathway for decarbonizing Serbia's vehicle fleet, emphasizing the role of electric mobility in achieving sustainable transportation goals.*
 
 
 - May
