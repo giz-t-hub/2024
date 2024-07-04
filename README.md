@@ -6,6 +6,10 @@
     - <b> Street Experiments as Transformative Planning Tools: Contrasting Adaptive Approaches towards Urban Livability and Sustainable Urban Mobility </b>, Lukas Hügle, July 2023: https://hlbrm.pur.hebis.de/xmlui/handle/123456789/183
     - 
 - June
+    - <b> Morocco’s Role in the Global Electro-Mobility Revolution </b>, GIZ, June 2024: https://changing-transport.org/publications/moroccos-role-in-the-global-electro-mobility-revolution/
+    - <b> Recommendation for Deployment of Smart Charging for Electric Vehicles in India </b>, GIZ, June 2024: https://changing-transport.org/publications/recommendation-for-deployment-of-smart-charging-for-electric-vehicles-in-india/
+    - <b> Enhancing Ambition and Transparency in the Next Round of NDCs </b>, GIZ, June 2024: https://changing-transport.org/publications/enhancing-ambition-and-transparency-in-the-next-round-of-ndcs/
+    - <b> Exploration of Market Potentials in Battery Recycling and Refurbishment in Africa – Case Study of: Ghana, Rwanda, Morocco, Cameroon, and Kenya </b>, GIZ, June 2024: https://transformative-mobility.org/multimedia/exploration-of-market-potentials-in-battery-recycling-and-refurbishment-in-africa-case-study-of-ghana-rwanda-morocco-cameroon-and-kenya/
     - <b> BRT Simple Calculator Of Project Effects (SCOPE) </b>, ITDP, June 2024: https://itdp.org/publication/itdp-scope-emissions-tool/
     - <b> Urban Logistics Hubs </b>, ITF, June 2024: https://www.itf-oecd.org/sites/default/files/docs/urban-logistics-hubs.pdf
     - <b> Future transport infrastructure: Comparing national investments </b>, ITF, June 2024: https://www.itf-oecd.org/sites/default/files/future-transport-infrastructure-comparing-national-investments.pdf?ct=t(2018_Sept_Newsletter_COPY_01)&mc_cid=d0fe79a9d0&mc_eid=de33341d8b
