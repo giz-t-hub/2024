@@ -44,6 +44,7 @@ of infrastructure and service planning to better meet women’s mobility needs a
 - <b> THE GLOBAL AUTOMAKER RATING 2023 - Who is leading the transition to electric vehicles? </b>:  https://theicct.org/wp-content/uploads/2024/05/ID-161-%E2%80%93-GAR-2023_report_final.pdf - *This report updates the Global Automaker Rating 2022 report and assesses how the 
 world’s largest automakers stack up in the transition to ZEVs—that is, battery electric vehicles (BEVs) and fuel-cell electric vehicles (FCEVs).*
 - <b> Shared mobility and a sustainable transport future in Latin American cities </b>: https://www.wri.org/research/shared-mobility-and-sustainable-transport-future-latin-american-cities? - *This paper discusses the views and issues addressed by invited speakers and discussants at the workshop series “Shared Mobility and a Sustainable Transport Future in Latin American Cities,” hosted by WRI Ross Center's Urban Mobility team from August to October 2023. The workshops were held to solicit expert views on whether and how shared-mobility tools, like bike sharing and ride-hailing, may support a sustainable mobility ecosystem.*
+- <b> The Future of Public Transport: Well-Funded, Equitable and Resilient </b>: , ITDP, May 2024: https://itdp.org/publication/the-future-of-public-transport-white-paper/ 
 
 
 ### April <a name="April"></a> 
