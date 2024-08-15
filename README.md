@@ -1,6 +1,9 @@
 # New publications 2024
 - Any comments or suggestions? Contact: Armin.Wagner@giz.de
 
+### August <a name="August"></a>
+
+- <b> CAREC Road Safety Engineering Manual 7: Why and How to Manage Speed, Asian Development Bank, August 2024: https://www.adb.org/sites/default/files/publication/987041/carec-rse-manual-7-manage-speed.pdf - *This manual provides guidelines for managing vehicle speeds to improve road safety across Central Asia Regional Economic Cooperation (CAREC) countries. It outlines strategies for speed limit setting, enforcement, and public awareness. The manual emphasizes the importance of speed management in reducing traffic accidents and fatalities, offering practical solutions and case studies relevant to the region.*
 
 ### July <a name="July"></a> 
 
