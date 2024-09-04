@@ -3,6 +3,12 @@
 
 ### September <a name="September"></a>
 
+- <b>  Classifying 15-minute Cities: A review of worldwide practices </b> João Filipe Teixeira, Cecília Silva, Sebastian Seisenberger, Benjamin Büttner, Bartosz McCormick, 
+Enrica Papa, Mengqiu Cao, September 2024: https://www.sciencedirect.com/science/article/pii/S0965856424002829#f0060 - *This research identifies 98 cities worldwide that are either planning or actively implementing the Hashtag#15minuteCity or similar concepts. This widespread interest demonstrates a global recognition of the need to rethink urban living and move away from car-dependent planning models and shift to proximity-centred planning.*
+- <b> Determinants of bicycle ownership and use: A case study of apartment residents in Melbourne, Australia </b> Chris De Gruyter, Andrew Butt, September 2024: https://www.sciencedirect.com/science/article/pii/S0965856424002635 - *The results of this tsudy imply that increasing bicycle ownership and use among apartment residents requires a multifaceted approach, including adequate bicycle parking requirements that vary both spatially and by apartment size, along with programs and events that can foster positive attitudes towards cycling.*
+- 
+
+
 
 
 ### August <a name="August"></a>
