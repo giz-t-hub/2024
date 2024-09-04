@@ -1,6 +1,10 @@
 # New publications 2024
 - Any comments or suggestions? Contact: Armin.Wagner@giz.de
 
+### September <a name="September"></a>
+
+
+
 ### August <a name="August"></a>
 
 - <b>  Digital Twins for Railway Sector: Current State and Future Directions </b> Krmac, Evelin & Djordjevic, Boban / IEEE Access, Auguast 2024: https://www.linkedin.com/posts/boban-djordjevic-96474a190_digital-twins-for-railway-sector-ugcPost-7229387702842871808-b2Cb/?utm_source=share&utm_medium=member_android - *This research offers the assessment of the extent to which the technology of DT has influenced scientific publications in the field of rail transport so far; provides a comprehensive classification framework that allows a deep insight into the role of DT in rail transport; collects information on already realized implementations of DT in rail transport; identifies current research gaps, etc.*
