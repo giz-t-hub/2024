@@ -1,6 +1,10 @@
 # New publications 2024
 - Any comments or suggestions? Contact: Armin.Wagner@giz.de
 
+### October <a name="Octover"></a>
+
+<b> Transport and Climate Profiles for low- and middle-income countries in Asia and the Pacific: Azerbaijan, Bangladesh, Bhutan </b> Asian Transport Outlook, October 2024: https://asiantransportoutlook.com/updates/transport-and-climate-policy-profiles-release-1/ - *These profiles for Azerbaijan, Bangladesh, and Bhutan provide key insights for policymakers, researchers, and other stakeholders, providing crucial data insights on transport-related emissions, energy consumption trends, vehicle fleet growth, and climate vulnerability, as well as critical policy insights, showcasing current national policies, greenhouse gas reduction targets, and measures designed to accelerate sustainable transport solutions such as electrification, public transport enhancements, and resilient infrastructure development.*
+
 ### September <a name="September"></a>
 
 - <b> Lost in Transmission: Communicating for Safe Automated Vehicle Interactions in Cities </b> ITF/OECD, September 2024: https://www.itf-oecd.org/communicating-safe-automated-vehicle-cities - *This report provides principles and recommendations to ensure the communication of necessary information for the best interaction between public space users and automated systems. It assesses how meaningful information regarding public space and its use can be encoded and transmitted to AVs and how automated systems can acquire and use information to guide their actions and safely and beneficially manage interactions.*
