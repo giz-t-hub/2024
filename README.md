@@ -3,7 +3,7 @@
 
 ### October <a name="Octover"></a>
 
-
+- <b> Promoting Behaviour Change towards Walking & Cycling </b> ITDP India, October 2024: https://itdp.in/wp-content/uploads/2024/10/Behaviour-Change-report-.pdf  - *In recent years, India has seen several behaviors change campaigns at both city and national levels, all aimed at encouraging walking and cycling. These initiatives emerged alongside the development of crucial infrastructure, highlighting that while building infrastructure is vital, motivating people to use it is equally important. This new report called, ‘Promoting Behaviour Change towards Walking & Cycling’, offers a comprehensive look at these campaigns.* 
 - <b> Guide to Mobility for Livable Pacific Cities </b> World Bank, October 2024 - *This guide is intended to serve as a guidebook to a car-lite urban development pathway for the Pacific. Part I is primarily written for top government decision-makers and representatives of civil society and development organizations who are tasked with defining strategies for the future development of Pacific cities. Part II is written for working-level technical practitioners who seek to understand and implement strategies developed under Part I.*
   - Part I - Priority Actions for a Car-Lite Future (English): https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099100824025018812/p18048915d586f0a41862f1c8e39cca4144
   - Part Il - Practitioners' Handbook to Implement the Priority Actions (English): https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099100824025021087/p1804891a07a2e0de1856717fb97f7de614 
