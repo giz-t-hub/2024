@@ -1,7 +1,11 @@
 # New publications 2024
 - Any comments or suggestions? Contact: Armin.Wagner@giz.de
 
-### October <a name="Octover"></a>
+### November <a name="November"></a>
+
+- 
+
+### October <a name="October"></a>
 
 - <b> Cities turning crisis into change - Post-pandemic pathways to resilience in complex times </b> OECD, October 2024: https://www.oecd.org/en/publications/cities-turning-crisis-into-change_05c005d5-en.html - *Cities are pivotal hubs for the world’s population, economic activity, and cultural exchange, yet their advantages – such as density and interconnectedness – can be sources of vulnerability to crises ranging from natural disasters to economic shocks and pandemics. This report draws lessons from recent crises to provide a strategic framework for urban policymakers to bolster resilience against future shocks, including by promoting sustainability and driving inclusive growth.*
 - <b> Connecting Economies, Empowering Women : Regional Trade and Connectivity in South Asia </b>  World Bank Group, October 2024: http://documents.worldbank.org/curated/en/099813409232418309/IDU1ebb1aadc1f934145a81898b11cd110270f58 - *This booklet shares stories of women beneficiaries of World Bank-supported projects to highlight how these interventions led to greater economic participation of women.* 
