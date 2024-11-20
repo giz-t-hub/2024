@@ -3,7 +3,7 @@
 
 ### November <a name="November"></a>
 
-- 
+- <b> GHG Emissions Accounting and Reporting for Transport </b> ITF Corporate Partnership Board Report, November 2024: - *This report aims to demystify the complex landscape of emissions calculation and reporting for transport, often characterised by a plethora of methodologies, standards, and regulations. It evaluates the current state of GHG accounting and reporting practices in the transport sector, identifies key challenges, and how to overcome those. By doing so, it provides a roadmap to improve transparency and consistency in emissions accounting and reporting, ultimately helping the industry to reduce its environmental impact and move towards practices with future generations in mind.*
 
 ### October <a name="October"></a>
 
