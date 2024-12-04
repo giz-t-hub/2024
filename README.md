@@ -1,6 +1,12 @@
 # New publications 2024
 - Any comments or suggestions? Contact: Armin.Wagner@giz.de
 
+### December <a name="December"></a>
+
+- <b> Fare’s Fair: Experiences and Impacts of Fare Policies </b> ITF, December 2024: https://www.itf-oecd.org/fares-fair-experiences-impacts-fare-policies - *Public transport authorities need to consider affordability, transparency, inclusiveness, and flexibility when developing fare policies and selecting fare technologies. This report presents several case studies that illustrate these principles. It discusses the distributive effects of different fare policies and ticketing technologies. By identifying what can and cannot be achieved through fare policies alone, this study supports decision makers in developing and implementing more effective and fair fare policies.*
+- <b> Building back better: Ukraine's transport infrastructure >/b> Transport and Evironment, December 2024: https://www.transportenvironment.org/articles/building-back-better-ukraines-transport-infrastructure - *The report looks at the priorities and implications of EU transport related cohesion spending for 10 Central and Eastern European countries, after their accession from 2007. To supplement our analysis, we investigate 8 case studies. The lessons learned will be crucial for Ukraine, as it progresses towards EU membership.*
+- 
+
 ### November <a name="November"></a>
 
 - <b> Unlocking the Growth Potential of Kenya’s E-Mobility Sector </b> Siemens Stiftung, GIZ, November 2024: https://www.siemens-stiftung.org/en/media/news/new-report-unlocking-kenyas-e-mobility-potential/ - *The report published in the framework of the “Piloting and Prepare to Scale E-Mobility in Kenya” project highlights Kenya’s track to become a leader in sustainable transportation. The sector generates impact, particularly in the two-wheeler or “boda boda” sector, by reducing greenhouse gas emissions, improving air quality, but also creating jobs and perspectives for youth.*
