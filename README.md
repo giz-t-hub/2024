@@ -3,6 +3,8 @@
 
 ### December <a name="December"></a>
 
+- <b> Biennial update report (BUR) </b> . BUR 4., Ministry of Environment, Forest and Climate Change, Government of India, December 2024: https://unfccc.int/documents/645149 - *The Fourth Biennial Update Report (BUR-4) updates the Third National Communication (TNC), which was 
+submitted to the UNFCCC in December 2023. This report (BUR-4) contains the National Greenhouse Gas (GHG) inventory for the year 2020.*
 - <b> Exploring supply chain managers' complex perceptions of dynamic capabilities for digital transformation </b> Mario Dobrovnik, David M. Herold, 
 Sebastian Kummer, December 2024: https://www.sciencedirect.com/science/article/pii/S2666954424000267?via%3Dihub - *This study examines how supply chain managers perceive the importance and interconnections of specific digital capabilities for digital transformation. Based on a digital capability framework, it surveyed supply chain managers in Austria and Germany.*
 - <b> ASEAN Guidelines on Light Electric Vehicles </b> ASEAN Secretariat, December 2024: https://asean.org/book/asean-guidelines-on-light-electric-vehicles/ - *This guideline is designed to assist ASEAN governments in promoting the adoption of LEVs by providing a framework for policy development and collaboration. Recognising the diverse starting points and initiatives of each member states encourages them to tailor and strengthen approaches based on each country’s specific context. Therefore, the guidelines do not provide a universal one-size-fits-all approach that applies to all AMS. Instead, it suggests a process for defining country-specific strategies to support the uptake of LEVs.*
