@@ -3,6 +3,7 @@
 
 ### December <a name="December"></a>
 
+<b> Year 2024 in New Mobility in Poland: Summary</b> (*Rok 2024 w nowej mobilności w Polsce*) - Polish New Mobility Association (PSNM), 2024, https://psnm.org/?raporty=rok-2024-w-nowej-mobilnosci-w-polsce-podsumowanie - *A summary of 2024 in the Polish new mobility sector prepared by PSNM. 2024 has been a very difficult year for sustainable transport. The first-ever year-on-year decline in new electric car registrations and the low degree of compliance with the EU requirements (AFIR) regarding the expansion of charging infrastructure are just some of the symptoms of the difficult situation on the e-mobility market. 2024 also saw positive developments: a record of newly installed DC charging points and the development of new urban mobility.*
 - <b> Biennial update report (BUR) India </b> . BUR 4., Ministry of Environment, Forest and Climate Change, Government of India, December 2024: https://unfccc.int/documents/645149 - *The Fourth Biennial Update Report (BUR-4) updates the Third National Communication (TNC), which was 
 submitted to the UNFCCC in December 2023. This report (BUR-4) contains the National Greenhouse Gas (GHG) inventory for the year 2020.*
 - <b> Exploring supply chain managers' complex perceptions of dynamic capabilities for digital transformation </b> Mario Dobrovnik, David M. Herold, 
