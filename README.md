@@ -1,6 +1,6 @@
 # New publications 2024 
 
-- Research, data, policies, plans, etc
+- Research, data, policies, plans, guidelines etc
 - Any comments or suggestions? Contact: Armin.Wagner@giz.de
 
 ### December <a name="December"></a>
