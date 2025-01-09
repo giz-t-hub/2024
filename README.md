@@ -2,6 +2,7 @@
 
 - Research, data, policies, plans, guidelines etc
 - Any comments or suggestions? Contact: Armin.Wagner@giz.de
+- For 2025, please refer to: https://github.com/giz-t-hub/2025
 
 ### December <a name="December"></a>
 
