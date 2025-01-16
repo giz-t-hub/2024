@@ -6,6 +6,7 @@
 
 ### December <a name="December"></a>
 
+- <b> Cities for All Through Universal Accessibility </b> ITDP/TUMI: https://itdp.org/publication/cities-for-all-through-universal-accessibility/?mc_cid=11d56b6eaa&mc_eid=0c9d511e70 - *This illustrated policy brief explores the need for universally accessible cities, emphasizing that making urban environments inclusive benefits all people, especially those with disabilities.*
 - <b> European vehicle market statistics 2024/25 </b>  Michelle Monteforte, Peter Mock and Uwe Tietge / ICCT: https://theicct.org/publication/european-vehicle-market-statistics-2024-25/ - *The 2024/25 edition of European Vehicle Market Statistics offers a statistical portrait of passenger car, light commercial, and heavy-duty vehicle fleets in the European Union from 2001 to 2023. The report provides data on new vehicle registrations, technologies, fuel consumption, and tailpipe emissions, and offers insights on long-term trends of the vehicle market.*
 - <b> Shrinking Economic Distance </b>  World Bank, December 2024, https://openknowledge.worldbank.org/server/api/core/bitstreams/0c3172ea-7ff1-4d95-8adf-2a6b7c25b73a/content - *This report assesses the main determinants of the economic costs of freight transport in developing countries and identifies the frictions keeping transport prices above an efficient level, times high, and reliability low. It focuses on maritime and road transport, particularly road transport, as evidence 
 in this area has been scarcer than it is for maritime transport.*
